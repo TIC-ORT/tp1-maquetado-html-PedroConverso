@@ -6,8 +6,8 @@
 }
 
 :root {
-    --gris-oscuro: rgb(55, 55, 55);
-    --gris-medio: rgb(100, 100, 100);
+    --gris-oscuro: rgb(128, 123, 123);
+    --gris-medio: rgb(129, 127, 127);
     ---gris-claro: rgba(155, 155, 155);
     --celeste: rgb(173, 216, 230);
     --azul-marino: rgb(37, 36, 64);
